@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "label": "Software engineer",
+    "website": "Jacob.Zukauska.tk",
+    "email": "your-email@your-website.com",
+    "name": "Jacob Zukauska",
+    "summary": "Seeking a software engineering position where I can further develop my variety of skills in a fast-paced agile driven team.",
+    "picture": "",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jzukauska",
+        "url": "https://github.com/jzukauska"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jacob-zukauska",
+        "url": "https://www.linkedin.com/in/jacob-zukauska/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Tanyt",
+      "website": "https://tanyt.org/",
+      "position": "Lead Developer",
+      "startDate": "2019-04",
+      "summary": "Perform duties of software analysis, design, and construction",
+      "highlights": [
+        "Ongoing development on a growing health platform for helping people offer resources and find services to answer various social determinants of health",
+        "Robert Wood Johnson Foundation’s Catalyst @ Health 2.0 phase 1 finalist",
+        "Designed and built high function prototypes of service provider web portal and consumer interface",
+        "Ongoing development in cross platform Smart Community Health app"
+      ]
+    },
+    {
+      "company": "Self Employed Engineer",
+      "position": "Software Engineer",
+      "startDate": "2018-06",
+      "endDate": "2019-04",
+      "summary": "**The Pitch:** Provide affordable and scalable custom-built technologies and solutions to improve small business’ production and work flow",
+      "highlights": [
+        "Researched and began to learn new technologies to develop new skills to provide services to small businesses in order to update technological infrastructure ",
+        "Custom website services, database management, custom embedded projects, Small business ERP / SaaS "
+      ]
+    },
+    {
+      "company": "WOLTERS KLUWER",
+      "position": "Software Engineer Intern",
+      "startDate": "2017-05",
+      "endDate": "2017-08",
+      "summary": "Automated Document generation and in-house middleware",
+      "highlights": [
+        "Worked on enterprise automated financial and medical document generation API and Middleware using an existing Java enterprise system to provide support to SaaS development team",
+        "Wrote and troubleshot multiple middleware services to handle the testing of SOAP requests for the platform",
+        "Promoted and utilized solid Agile methodologies to work within the team"
+      ]
+    },
+    {
+      "company": "ReSeat | Vizlab St. Cloud State",
+      "position": "Business Analyst",
+      "startDate": "2016-08",
+      "endDate": "2017-11",
+      "summary": "Derived user stories from the business partners and delegated tasks to developers for implementation and testing",
+      "highlights": [
+        "Verified and validated the user stories using an ATDD approach and delivered bi-weekly updates to business partners"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "St. Cloud State University",
+      "gpa": "3.1",
+      "courses": [
+        "Software Engineering Analysis",
+        "Design",
+        "Construction",
+        "Networking",
+        "Security",
+        "Quality Assurance",
+        "Project Management",
+        "Database design",
+        "Mobile App Development",
+        "Object Oriented design"
+      ],
+      "startDate": "2015-07",
+      "endDate": "2018-05"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "advanced",
+      "keywords": [
+        "Java",
+        "C#",
+        "C++",
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "name": "Web Technologies",
+      "level": "intermediate",
+      "keywords": [
+        "React",
+        "React native",
+        "Node.js",
+        ".NET Core",
+        "jQuery",
+        "jQuery UI",
+        "MVC 5"
+      ]
+    },
+    {
+      "name": "Agile Tooling",
+      "level": "intermediate",
+      "keywords": [
+        "Team Foundation Server",
+        "Trello"
+      ]
+    },
+    {
+      "name": "Database Technologies",
+      "level": "intermediate",
+      "keywords": [
+        "SQL Server",
+        "PostgreSQL",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "intermediate",
+      "keywords": [
+        "Visual Studio",
+        "Eclipse",
+        "IntelliJ",
+        "SQL Server Management Studio",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Deployment Environments",
+      "level": "beginner",
+      "keywords": [
+        "Aws Lambda",
+        "Aws DynamoDB",
+        "Containerized deployments and CICD (Docker / Docker Compose)"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Back-end technologies",
+      "summary": "Servers and data",
+      "keywords": [
+        "Dev Ops",
+        "Containerization",
+        "Sever and computer building"
+      ]
+    },
+    {
+      "name": "Embedded system projects",
+      "summary": "Self contained projects",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi",
+        "Robots",
+        "Automated systems"
+      ]
+    },
+    {
+      "name": "Automation",
+      "summary": "Getting things done efficeintly ",
+      "keywords": [
+        "Python",
+        "Scripting",
+        "Web parsing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "native"
+    }
+  ]
+}

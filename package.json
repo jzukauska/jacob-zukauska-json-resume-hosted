@@ -1,0 +1,17 @@
+{
+  "name": "jz-resume-hack-my-resume",
+  "version": "0.0.1",
+  "description": "Base fresh or json resume ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Zukauska",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-kendall": "^0.1.19",
+    "jsonresume-theme-print-flexbox": "^1.0.0",
+    "wkhtmltopdf": "^0.3.4"
+  }
+}

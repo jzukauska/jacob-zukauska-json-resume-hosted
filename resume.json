@@ -1,0 +1,289 @@
+{
+  "name": "Jacob Zukauska",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "Software engineer",
+    "brief": "Seeking a software engineering position where I can further develop my variety of skills in a fast-paced agile driven team.",
+    "image": "https://raw.githubusercontent.com/jzukauska/jacob-zukauska-json-resume-hosted/master/picture/downsized.jpg"
+  },
+  "contact": {
+    "website": "http://jacob.zukauska.tk/",
+    "email": "your-email@your-website.com"
+  },
+  "location": {
+    "city": "Minneapolis",
+    "region": "Minnesota",
+    "country": "US"
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "jzukauska",
+      "url": "https://github.com/jzukauska"
+    },
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "user": "jacob-zukauska",
+      "url": "https://www.linkedin.com/in/jacob-zukauska/"
+    }
+  ],
+  "employment": {
+    "history": [
+      {
+        "employer": "Tanyt",
+        "url": "https://tanyt.org/",
+        "position": "Lead Developer",
+        "summary": "Perform duties of software analysis, design, and construction",
+        "start": "2019-04",
+        "keywords": [
+          "React Native",
+          "React",
+          "React Rounter",
+          "Redux",
+          "Expo",
+          "JavaScript",
+          "Node.Js",
+          "Aws DynamoDB",
+          "Aws Lambda"
+        ],
+        "highlights": [
+          "Ongoing development on a growing health platform for helping people offer resources and find services to answer various social determinants of health",
+          "Robert Wood Johnson Foundation’s Catalyst @ Health 2.0 phase 1 finalist",
+          "Designed and built high function prototypes of service provider web portal and consumer interface",
+          "Ongoing development in cross platform Smart Community Health app"
+        ]
+      },
+      {
+        "employer": "Self Employed Engineer",
+        "position": "Software Engineer",
+        "summary": "**The Pitch:** Provide affordable and scalable custom-built technologies and solutions to improve small business’ production and work flow",
+        "start": "2018-06",
+        "end": "2019-04",
+        "keywords": [
+          "Node.Js",
+          "Express.js",
+          "JavaScript",
+          "SQL Server",
+          "Java",
+          "AutoIt",
+          "C++",
+          "Python"
+        ],
+        "highlights": [
+          "Researched and began to learn new technologies to develop new skills to provide services to small businesses in order to update technological infrastructure ",
+          "Custom website services, database management, custom embedded projects, Small business ERP / SaaS "
+        ]
+      },
+      {
+        "employer": "WOLTERS KLUWER",
+        "position": "Software Engineer Intern",
+        "summary": "Automated Document generation and in-house middleware",
+        "start": "2017-05",
+        "end": "2017-08",
+        "keywords": [
+          "C#",
+          "jQuery",
+          "JavaScript",
+          "SOAP",
+          "Java EE",
+          "Asp.NET Core",
+          "Team Foundation server",
+          "Razor Framework",
+          "Mvc4",
+          "Entity Framework"
+        ],
+        "highlights": [
+          "Worked on enterprise automated financial and medical document generation API and Middleware using an existing Java enterprise system to provide support to SaaS development team",
+          "Wrote and troubleshot multiple middleware services to handle the testing of SOAP requests for the platform",
+          "Promoted and utilized solid Agile methodologies to work within the team"
+        ]
+      },
+      {
+        "employer": "ReSeat | Vizlab St. Cloud State",
+        "position": "Business Analyst",
+        "summary": "Derived user stories from the business partners and delegated tasks to developers for implementation and testing",
+        "start": "2016-08",
+        "end": "2017-11",
+        "keywords": [
+          "React Native"
+        ],
+        "highlights": [
+          "Verified and validated the user stories using an ATDD approach and delivered bi-weekly updates to business partners"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Virtual Tour Creation tool",
+      "category": "Senior Capstone Project",
+      "role": "Software Engineer",
+      "summary": "Analyze, design and construct web deployable software that allows a user to create 3D virtual tours withno programming experience using basic web technologies",
+      "description": "Software that adds a user friendly interface to allow non technically inclined users to create virtual tours using 3d pictures and a pan-able 3d environment",
+      "highlights": [
+        "Co-developed System Requirements Specification, Software Design Document, and Technical Design Document. Designed and wrote web service to serve page content and manipulate and stored images and data. Utilized Agile Sprints to plan work",
+        "Received acceptance from Director of Admissions and Dean of COSE to move prototype towards implementing the project into St Cloud State’s ecosystem"
+      ],
+      "keywords": [
+        "JavaScript",
+        "Node.Js",
+        "Express",
+        "Html",
+        "CSS",
+        "JSON",
+        "Forge.js",
+        "Microsoft Visio",
+        "Trello"
+      ]
+    },
+    {
+      "title": "Data Visualization Tool",
+      "category": "Student Project",
+      "role": "Developer",
+      "summary": "Plot 4-dimensional student data from SCSU in VR using Unity to make complex data viewable and visualize regression models among other forms of analysis",
+      "highlights": [
+        " Co-developed and researched the topic alongside a math grad student. Design in-simulation GUI to manipulate the data sets in real time.",
+        "Worked together with co-author to present a research paper and present at the university research colloquium "
+      ],
+      "keywords": [
+        "Unity",
+        "C#"
+      ]
+    }
+  ],
+  "education": {
+    "summary": "St. Cloud State University Bachelor of Science in Engineering",
+    "level": "degree",
+    "degree": "Bachelors of Science in Software Engineering",
+    "history": [
+      {
+        "institution": "St. Cloud State University",
+        "title": "BSSE",
+        "url": "https://www.stcloudstate.edu/",
+        "start": "2015-07",
+        "end": "2018-05",
+        "grade": "3.1",
+        "summary": "First graduating class of St. Cloud State University Software Engineering program 2018",
+        "curriculum": [
+          "Software Engineering Analysis",
+          "Design",
+          "Construction",
+          "Networking",
+          "Security",
+          "Quality Assurance",
+          "Project Management",
+          "Database design",
+          "Mobile App Development",
+          "Object Oriented design"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Programming Languages",
+        "level": "advanced",
+        "skills": [
+          "Java",
+          "C#",
+          "C++",
+          "JavaScript",
+          "Python"
+        ]
+      },
+      {
+        "name": "Web Technologies",
+        "level": "intermediate",
+        "skills": [
+          "React",
+          "React native",
+          "Node.js",
+          ".NET Core",
+          "jQuery",
+          "jQuery UI",
+          "MVC 5"
+        ]
+      },
+      {
+        "name": "Agile Tooling",
+        "level": "intermediate",
+        "skills": [
+          "Team Foundation Server",
+          "Trello"
+        ]
+      },
+      {
+        "name": "Database Technologies",
+        "level": "intermediate",
+        "skills": [
+          "SQL Server",
+          "PostgreSQL",
+          "MySQL"
+        ]
+      },
+      {
+        "name": "Development Tools",
+        "level": "intermediate",
+        "skills": [
+          "Visual Studio",
+          "Eclipse",
+          "IntelliJ",
+          "SQL Server Management Studio",
+          "Docker"
+        ]
+      },
+      {
+        "name": "Deployment Environments",
+        "level": "beginner",
+        "skills": [
+          "Aws Lambda",
+          "Aws DynamoDB",
+          "Containerized deployments and CICD (Docker / Docker Compose)"
+        ]
+      }
+    ],
+    "list": []
+  },
+  "languages": [
+    {
+      "language": "English",
+      "level": "native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Back-end technologies",
+      "summary": "Servers and data",
+      "keywords": [
+        "Dev Ops",
+        "Containerization",
+        "Sever and computer building"
+      ]
+    },
+    {
+      "name": "Embedded system projects",
+      "summary": "Self contained projects",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi",
+        "Robots",
+        "Automated systems"
+      ]
+    },
+    {
+      "name": "Automation",
+      "summary": "Getting things done efficeintly",
+      "keywords": [
+        "Python",
+        "Scripting",
+        "Web parsing"
+      ]
+    }
+  ]
+}
